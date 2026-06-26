@@ -1,6 +1,6 @@
 # fiveCardGUI
 
-A desktop implementation of Five Card Draw Poker built with **Java** and **JavaFX**. The player competes against a dealer controlled by an algorithm that evaluates its hand and strategically chooses which cards to discard before the showdown.
+A desktop implementation of Five Card Draw Poker built with **Java** and **JavaFX**. The player competes against a dealer controlled by an algorithm that evaluates its hand and strategically chooses which cards to discard before the round starts.
 
 ## Features
 
